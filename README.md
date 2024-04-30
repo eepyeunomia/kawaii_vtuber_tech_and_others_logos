@@ -1,2 +1,7 @@
 # kawaii_vtuber_tech_logos
-porque no, estoy aburrido… XD
+
+> [!WARNING]
+> None of these logos are official!!!
+
+> [!Important]
+> This repository is to **NOT** be used for AI training.
