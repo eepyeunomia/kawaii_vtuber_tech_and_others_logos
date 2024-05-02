@@ -1,4 +1,4 @@
-# kawaii_vtuber_tech_logos
+# kawaii_vtuber_tech_and_others_logos
 
 > [!WARNING]
 > None of these logos are official!!!
